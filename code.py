@@ -66,7 +66,7 @@ class TestCourseMeeting(unittest.TestCase):
             name="Введение в Python",
             description="Первая лекция по Python",
             link="https://meet.example.com",
-            date_time=datetime(2024, 4, 1, 14, 0)
+            date_time=datetime(2025, 4, 1, 14, 0)
         )
         self.assertEqual(meeting.name, "Введение в Python")
         self.assertEqual(meeting.invitees, [1, 2, 3])
