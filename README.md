@@ -1,2 +1,7 @@
-# RPAoNEaPA_and_SkillBox_Program_engineering
-RPAoNEaPA_and_SkillBox_Program_engineering
+## Проект по разработке образовательной онлайн-площадки "Навыки будущего"
+
+Участники проекта:
+
+- Рогаткин Илья
+- Холодов Ярослав
+
